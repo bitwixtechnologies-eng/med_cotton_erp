@@ -1,0 +1,1 @@
+# ERP Platform - Node.js Monorepo
